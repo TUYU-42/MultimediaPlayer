@@ -1,3 +1,4 @@
+
 # 多媒體播放器
 
 ## 學生資料
@@ -25,4 +26,4 @@ C# .NET Framework WinForms 多媒體播放器，支援影片/音訊播放清單�
 
 ## 截圖
 
-![screenshot](docs/screenshots/media.png)
+![Uploading 螢幕擷取畫面 2026-05-13 224659.png…]()
