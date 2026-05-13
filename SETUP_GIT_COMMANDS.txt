@@ -1,0 +1,8 @@
+cd 1123305_范宸瑋_WinForms_HW
+git init
+git config user.name "1123305 范宸瑋"
+git config user.email "fanweiwei2005@gmail.com"
+git add .
+git commit -m "init: add WinForms homework solution structure"
+git commit --allow-empty -m "docs: add README and submission notes"
+git commit --allow-empty -m "feat: implement responsive piano, wav player, and multimedia player"

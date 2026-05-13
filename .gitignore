@@ -1,0 +1,21 @@
+# Visual Studio / .NET Framework
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+*.opendb
+*.VC.db
+*.csproj.FileListAbsolute.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider / VS Code
+.idea/
+.vscode/
