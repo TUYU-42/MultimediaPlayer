@@ -22,4 +22,5 @@ C# .NET Framework WinForms 多媒體播放器，支援影片/音訊播放清單�
 
 ## 截圖
 
-![Uploading 螢幕擷取畫面 2026-05-13 224659.png…]()
+<img width="1172" height="703" alt="螢幕擷取畫面 2026-05-13 224659" src="https://github.com/user-attachments/assets/31d887bb-d6b4-4711-890f-828f8fc9531b" />
+
